@@ -1,0 +1,33 @@
+body{
+    font-family: Arial;
+}
+.green{
+    color:green;
+}
+.underline{
+    text-decoration: underline;
+}
+#mainImg{
+    width: 35%;
+    
+}
+.box{
+    border: .25px solid black;
+    background-color: lightgray;
+    width:200px;
+    padding: 1rem;
+}
+.yellowBg{
+    color:yellow;
+}
+.boxlink{
+    text-decoration: none;
+}
+.oldImg{
+    height: 200px;
+    width: 200px;
+    margin-right: 1rem;
+}
+#decription{
+    background-color: antiquewhite;
+}
